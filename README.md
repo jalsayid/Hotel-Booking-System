@@ -2,6 +2,18 @@
 
 A simple command-line hotel booking management system implemented in Python that allows users to create, manage, and track hotel bookings.
 
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Data Validation](#data-validation)
+- [File Structure](#file-structure)
+- [Authors](#authors)
+- [Error Handling](#error-handling)
+- [Notes](#notes)
+
 ## Features
 
 - Create new hotel bookings
